@@ -11,6 +11,4 @@ Created an interactive Super Store Sales Dashboard containing insights such as T
 <br>
 <img src="https://github.com/irenegoswami20/Excel-End-to-End-Dashboard/blob/4f6ebfb74351edaa35397c65de73597572f5330f/Project%20Insights.jpg" alt="Image Description" width="600"> 
 <br>
-<img src="https://github.com/irenegoswami20/Excel-End-to-End-Dashboard/blob/4f6ebfb74351edaa35397c65de73597572f5330f/Division%20of%20insights.jpg" alt="Image Description" width="600"> 
-<br>
 <img src="https://github.com/irenegoswami20/Excel-End-to-End-Dashboard/blob/4f6ebfb74351edaa35397c65de73597572f5330f/Irene's%20Dashboard%20Image.jpg" alt="Image Description" width="600"> 
