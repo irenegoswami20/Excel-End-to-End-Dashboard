@@ -1,5 +1,5 @@
 # Excel-End-to-End-Dashboard
-Created an interactive Super Store Sales Dashboard containing insights such as Total and Average Sales, Total Transactions, Quantity Ordered, Shipmode and regionwise Sales%, Monthwise Quantity sold, Top 5 cities by sales, categorywise transaction count and consumer type wise quantity ordered
+Created an interactive Super Store Sales Dashboard using Microsoft Excel. Key insights include Ship Mode-wise Sales Percentage, Region-wise Sales Percentage, Month-wise Quantity Sold, Top 5 Cities by Sales, Category-wise Transaction Count, and Consumer Type-wise Quantity Ordered.
 
 <img src="https://github.com/irenegoswami20/Excel-End-to-End-Dashboard/blob/4f6ebfb74351edaa35397c65de73597572f5330f/Average.png" alt="Image Description" width="600">  
 <br>
